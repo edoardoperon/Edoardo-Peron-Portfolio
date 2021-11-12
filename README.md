@@ -1,4 +1,4 @@
-# Edoardo-Peron-Portfolio
+# Edoardo_Peron_Portfolio
 
 
 # [Project 1: Segment Analysis through SQL](https://edoardoperon.github.io/Segment-Analysis-through-SQL/)
