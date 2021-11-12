@@ -1,7 +1,7 @@
 # Edoardo-Peron-Portfolio
 
 
-# Project 1: Segment Analysis through SQL
+# [Project 1: Segment Analysis through SQL](https://edoardoperon.github.io/Segment-Analysis-through-SQL/)
 
 In this project, I designed and created a database similar to what a simplified corporate ERP might be. I wanted to segment customers by distribution channel and extrapolate data.
 
